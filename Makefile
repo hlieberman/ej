@@ -1,3 +1,3 @@
 PROJECT = ej
 
-include ../erlang.mk
+include erlang.mk
